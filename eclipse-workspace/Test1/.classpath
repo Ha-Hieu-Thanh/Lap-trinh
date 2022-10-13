@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="module-info.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Thanh/Downloads/gs-core-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thanh/Downloads/gs-ui-swing-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thanh/Downloads/gs-algo-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thanh/Downloads/gs-ui-android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thanh/Downloads/gs-ui-javafx-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Thanh/Downloads/gs-ui-master"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

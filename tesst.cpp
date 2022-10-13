@@ -10,6 +10,7 @@ int bruteforce(vector<int> A, int n){
                 sum += A[k];
             if (sum > max)
                 max = sum;
+
         }   
     return max;
 }
@@ -18,7 +19,7 @@ int bruteforce_better(vector<int> A, int n){
     for (int i = 0; i < n; i++){
         int sum = 0;
         for (int j = i; j < n; j++){
-            sum += A[j];  // daf
+            sum += A[j];  // 
             if (sum > max)
                 max = sum;
         }
